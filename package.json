@@ -1,0 +1,24 @@
+{
+  "name": "glilout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itayhaph/GlilOut.git"
+  },
+  "author": "itay haph",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itayhaph/GlilOut/issues"
+  },
+  "homepage": "https://github.com/itayhaph/GlilOut#readme",
+  "dependencies": {
+    "create-react-app": "^3.4.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
