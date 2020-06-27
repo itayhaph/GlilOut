@@ -1,6 +1,6 @@
 import React from 'react';
 
-import classes from './Logo.css';
+import classes from './Logo.module.css';
 import theatherThug from '../../assets/images/Theatre_Thug.jpg'
 
 const logo = (props) => (
